@@ -11,3 +11,11 @@ This project is split into multiple stages and domains that require expertise fr
 Here's a quick rundown on the categories determined and targeted (for now):
 
 - [Lithography](https://github.com/ChipHomeFab/lithography)
+
+- [Lasers](https://github.com/ChipHomeFab/lasers)
+
+- [Ion implantation](https://github.com/ChipHomeFab/ion-implantation)
+
+- [Annealing](https://github.com/ChipHomeFab/annealing)
+
+- [Etching](https://github.com/ChipHomeFab/etching)
