@@ -21,3 +21,5 @@ Here's a quick rundown on the categories determined and targeted (for now):
 - [Etching](https://github.com/ChipHomeFab/etching)
 
 - [Metallization](https://github.com/ChipHomeFab/metallization)
+
+- [Optics](https://github.com/ChipHomeFab/optics)
